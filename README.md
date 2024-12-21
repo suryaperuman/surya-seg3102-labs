@@ -1,2 +1,2 @@
 # surya-seg3102-labs
-labs from 1-4
+labs from 1-7
